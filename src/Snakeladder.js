@@ -18,7 +18,7 @@ function Snakeladder() {
     //   scorex === 100 ? setResult("X") : setResult("Y");
     //   return;
     // }
-
+    //  master
     if (player === "X") {
       if (100 - scorex > dicevalue) {
         setValuex(dicevalue);
