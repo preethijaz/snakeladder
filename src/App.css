@@ -1,0 +1,77 @@
+.cell {
+  width: 80px;
+  height: 50px;
+  border: 1px groove black;
+  text-align: left;
+  font-weight: 400;
+}
+.player {
+  text-align: center;
+  font-size: 18px;
+  margin: 2px;
+  margin-top: 4px;
+  font-weight: 500;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.X {
+  margin: 5px;
+  font-size: medium;
+}
+.Y {
+  margin: 5px;
+  font-size: medium;
+}
+.container {
+  position: relative;
+}
+.snake {
+  position: absolute;
+  background: url(/src/snake2.png);
+  background-size: 100% 100%;
+  background-position: 50%;
+  z-index: 3;
+}
+#root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.snake-1 {
+  top: 0px;
+  left: 0px;
+  height: 217px;
+  width: 226px;
+  transform: rotate(44deg);
+}
+.Board {
+  margin: 6px;
+}
+.Header {
+  text-align: center;
+  margin: 20px;
+  font-weight: 600;
+}
+.button {
+  margin: 16px;
+  width: 87px;
+  height: 53px;
+  color: azure;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: coral;
+  color: black;
+}
+body {
+  background-color: bisque;
+}
+.current {
+  font-size: 20px;
+}
+.footer {
+  text-align: center;
+}
