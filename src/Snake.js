@@ -5,10 +5,7 @@ class Snake extends React.Component {
   render() {
     return (
       <div className="snakes">
-        <div className="snake-1 snake">
-          {/* <img src={snakeimg} alt="Not available"></img> */}
-          {/* image */}
-        </div>
+        <div className="snake-1 snake"></div>
       </div>
     );
   }
