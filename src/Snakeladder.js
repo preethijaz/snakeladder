@@ -59,14 +59,26 @@ function Snakeladder() {
 
   const checkLadderSnake = (cellno) => {
     switch (cellno) {
-      case 2:
-        return 23;
-      case 29:
-        return 66;
-      case 41:
-        return 62;
-      case 50:
+      case 3:
+        return 24;
+      case 7:
+        return 77;
+      case 12:
         return 28;
+      case 59:
+        return 78;
+      case 47:
+        return 89;
+      case 44:
+        return 20;
+      case 46:
+        return 36;
+      case 87:
+        return 29;
+      case 85:
+        return 57;
+      case 99:
+        return 17;
       default:
         return cellno;
     }
