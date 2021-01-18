@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/snakeladder/static/css/main.6e797794.chunk.css",
-    "main.js": "/snakeladder/static/js/main.7bff58dc.chunk.js",
-    "main.js.map": "/snakeladder/static/js/main.7bff58dc.chunk.js.map",
+    "main.css": "/snakeladder/static/css/main.ef0bb3dc.chunk.css",
+    "main.js": "/snakeladder/static/js/main.f50c400f.chunk.js",
+    "main.js.map": "/snakeladder/static/js/main.f50c400f.chunk.js.map",
     "runtime-main.js": "/snakeladder/static/js/runtime-main.98abbcc1.js",
     "runtime-main.js.map": "/snakeladder/static/js/runtime-main.98abbcc1.js.map",
     "static/js/2.e38b21c6.chunk.js": "/snakeladder/static/js/2.e38b21c6.chunk.js",
     "static/js/2.e38b21c6.chunk.js.map": "/snakeladder/static/js/2.e38b21c6.chunk.js.map",
     "index.html": "/snakeladder/index.html",
-    "static/css/main.6e797794.chunk.css.map": "/snakeladder/static/css/main.6e797794.chunk.css.map",
+    "static/css/main.ef0bb3dc.chunk.css.map": "/snakeladder/static/css/main.ef0bb3dc.chunk.css.map",
     "static/js/2.e38b21c6.chunk.js.LICENSE.txt": "/snakeladder/static/js/2.e38b21c6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/snakeladder/static/media/snake2.d8092119.png"
   },
   "entrypoints": [
     "static/js/runtime-main.98abbcc1.js",
     "static/js/2.e38b21c6.chunk.js",
-    "static/css/main.6e797794.chunk.css",
-    "static/js/main.7bff58dc.chunk.js"
+    "static/css/main.ef0bb3dc.chunk.css",
+    "static/js/main.f50c400f.chunk.js"
   ]
 }
